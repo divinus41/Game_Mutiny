@@ -176,8 +176,8 @@ function draw_gameplay()
 	
 	output_map()
 	
-	--output_timer()
-	--output_kills()
+	output_timer()
+	output_kills()
 	
 	output_sharks()
 	
