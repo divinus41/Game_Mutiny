@@ -37,8 +37,6 @@ You move the player-pirate with 'arrows' and shoves the npc's with 'X'.
 
 ## Note
 
-Game optimized for german keyboard layout!
-
 We would be very happy about suggestions and bug reports!
 
 ## Links
