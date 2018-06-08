@@ -31,7 +31,9 @@ You move the player-pirate with 'arrows' and shoves the npc's with 'X'.
 
 ## Update history
 
-* --
+### V 1.1
+
+* Control optimizing
 
 ## Note
 

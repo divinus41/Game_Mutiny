@@ -365,7 +365,7 @@ end
 
 function press_key_logic()
 
-	if (btn(4)) then
+	if (btn(4, 0)) then
 	
 		_init()
 		
@@ -473,7 +473,7 @@ function player_fight_logic()
 	taken_radius = 8
 	feedback_value = 10
 	
-	if (btnp(5)) then -- attack
+	if (btnp(5, 0)) then -- attack
 		
 		-- frameexchange
 		
@@ -999,7 +999,7 @@ function output_version_number()
 
 	print
 	(
-		"v 1.0",
+		"v 1.1",
 		80,
 		25,
 		3
@@ -1053,7 +1053,7 @@ function output_press_key_text()
 
 	print
 	(
-		"press y to start the game",
+		"press c to start the game",
 		15,
 		110,
 		10
@@ -1233,7 +1233,7 @@ function output_kills_timer()
 	
 	print
 	(
-		"press y to start the new game",
+		"press c to start the new game",
 		0,
 		120,
 		10
